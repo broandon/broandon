@@ -10,5 +10,6 @@
 * I have presented about 5 talks about cybersecurity to lawyers in Mexico. 
 
 #### If you would like to learn more about my skills or get my info in spanish please reach out to me to the mail below.
+#### Si quieres conocer mas sobre lo que sé hacer u obtener mi información en español envía un correo a la dirección indicada. 
 
 Find me on LinkedIN: 📡 https://www.linkedin.com/in/brandon-xavier-morales-gonzalez-783564191/
