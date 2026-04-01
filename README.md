@@ -6,7 +6,7 @@
 
 *Mexico City, México 🇲🇽 · Open to remote*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-xavier-morales-gonzalez-783564191/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/broandon/)
 [![Portfolio](https://img.shields.io/badge/inkwellcode.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://inkwellcode.com)
 
 </div>
@@ -71,18 +71,6 @@ FitRivals turns daily activity into head-to-head competition. Players challenge 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
-
----
-
-## Experience
-
-**[FILL: Senior iOS Engineer @ Company Name]** — [dates]
-> [One line on what you built / domain]
-
-**[FILL: Previous role]** — [dates]
-> [One line]
-
-*(Full history on [LinkedIn](https://www.linkedin.com/in/brandon-xavier-morales-gonzalez-783564191/) or [inkwellcode.com](https://inkwellcode.com))*
 
 ---
 
